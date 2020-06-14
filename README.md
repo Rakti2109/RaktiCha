@@ -32,7 +32,7 @@
   
    <section id="ArtMachine">
     <!--update link with the name of your folder-->
-    <a href="https://rakti2109.github.io/RaktiCha/RaktiC/machine.html">ArtMachine</a>
+    <a href="machine.html">ArtMachine</a>
   </section>
 
    <section id="Archive">
