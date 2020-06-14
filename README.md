@@ -22,7 +22,7 @@
 
   <section id="vlog">
     <!--update link with the name of your folder-->
-    <a href="shoppingfinal-2.mp4">Vlog</a>
+    <a href="https://studioelectronicart.github.io/students/RaktiC/vlog.html">Vlog</a>
   </section>
 	
   <section id="TruthShop">
