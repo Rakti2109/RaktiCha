@@ -1,5 +1,4 @@
 # Welcome to my webpage
-<!DOCTYPE html>
 <html lang="en-US">
 
 <head>
