@@ -35,6 +35,10 @@
     <a href="https://rakti2109.github.io/RaktiCha/RaktiC/machine.html">ArtMachine</a>
   </section>
 
+   <section id="Archive">
+    <!--update link with the name of your folder-->
+    <a href="https://rakti2109.github.io/RaktiCha/RaktiC/machine.html">Archive</a>
+  </section>
 
 
 
