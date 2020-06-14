@@ -47,6 +47,15 @@ border: 5px solid #B7CDC2;
 	
 }
 
+#ArtMachine {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	text-align: center;
+	position: fixed;
+	font-size: 18px;
+	color: #3C3533;
+	
+}
 
 footer {
   position: fixed;
