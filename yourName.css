@@ -1,0 +1,59 @@
+body {
+  margin: 0 auto;
+  height: 100%;	
+
+header {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #333F48;
+	
+}
+
+
+section {
+  margin: 0 auto;
+  width: 850px;
+  text-align: center
+}
+
+
+
+#Raktibooon {
+background-color: #F3ECE0;
+color: #333F48;
+border: 5px solid #B7CDC2;
+}
+
+
+
+#vlog {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	text-align: center;
+	position: fixed;
+	font-size: 18px;
+	color: #3C3533;
+	
+}
+
+#TruthShop {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	text-align: center;
+	position: fixed;
+	font-size: 18px;
+	color: #3C3533;
+	
+}
+
+
+footer {
+  position: fixed;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  bottom: 0;
+  width: 100%;
+  height: 10vh;
+  padding: 15px;
+  background-color: #B2A08A;
+}
