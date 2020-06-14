@@ -29,6 +29,11 @@
     <!--update link with the name of your folder-->
     <a href="https://studioelectronicart.github.io/students/RaktiC/welcome_to_truth_shop_.html">TruthShop</a>
   </section>
+  
+   <section id="ArtMachine">
+    <!--update link with the name of your folder-->
+    <a href="https://studioelectronicart.github.io/students/RaktiC/machine.html">ArtMachine</a>
+  </section>
 
 
 
@@ -53,7 +58,7 @@ body {
   font face, colour) in your CSS file but it must remain fixed at the bottom of
   the page, and contain the same text. It must appear on all pages of your
   personal site.-->
-  <footer>
+ <footer>
     <p>Disclaimer regarding work from external sources: <br>
       This student work has been created as part of an assignment in an approved course of study for Curtin University and contains copyright material not created by the author. All copyright material used remains copyright of the respective owners and has been used here pursuant to Section 40 of the Copyright Act 1968 (Commonwealth of Australia). No part of this work may be reproduced without consent of the original copyright owners. See code comments for references.</p>
   </footer>
